@@ -5,6 +5,7 @@ A custom voxel engine written from scratch in C++ and OpenGL.
 Video: https://youtu.be/QCuMJtfSFwY
 
 RUNNING
+
   Double-click VoxelEngine.exe. Keep it in this folder - it loads the
   shaders/, structures/ and characters/ folders next to it.
 
@@ -14,6 +15,7 @@ RUNNING
   click "More info" -> "Run anyway".
 
 CONTROLS
+
   WASD            Move
   Mouse           Look
   Space           Jump (fly up while flying)
